@@ -1,4 +1,3 @@
-[![MasterHead](https://images.unsplash.com/photo-1584990302213-1248392c4892?auto=format&fit=crop&q=60&w=400&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2lkZXxlbnwwfHwwfHx8MA%3D%3D)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rauf Ibna Rafiq Dip</h1>
 <h3 align="center">A passionate Data & BI Analyst from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IMy3xPh1fdA4PE7Yg6vYOoMG7Za4TV2-jA&usqp=CAU.gif">
